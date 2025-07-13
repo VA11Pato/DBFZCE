@@ -98,12 +98,12 @@ Below is a list of the changes that are retained from Season 4 onward, for vario
 
 - Minor QOL fixes or changes from S4 that are largely undocumented
 
-More importantly, many or most of the '''S4 hitboxes/hurtboxes''' are still being used in the main version of the mod. This is due to altered collision files causing instabilities in the game's rollback implementation. All of these changes were done in v1.28, and they tend to just amount to j.M or C assist hitbox/hurtbox adjustments.
+More importantly, many or most of the **S4 hitboxes/hurtboxes** are still being used in the main version of the mod. This is due to altered collision files causing instabilities in the game's rollback implementation. All of these changes were done in v1.28, and they tend to just amount to j.M or C assist hitbox/hurtbox adjustments.
 
 ## Why aren't these patched out?
 
 Largely due to DBFZCE's limitations as a "BBscript only" mod, theoretically it would be possible to edit the game's .exe to remove these extra changes, though their overall impact on the game in Season 3.5 is largely negligible, combined with the effort required to remove them and the extra effort it would put into installing and maintaining DBFZCE should the game ever update again, the developer of DBFZCE considered it not worth bothering with. Moreover, some of these more minor changes can overall be considered QOL improvements on top of the base 3.5 game. 
 
-The one change that was ''deliberately'' retained was the Superjump Macro S. This is largely for accessibility reasons; the developer does not believe that the macro has a significant enough impact on the general flow of neutral in DBFZ (though impact is not denied), while its existence allows returning players from S4 and so on to not have to re-learn too much muscle memory in how they move around the screen, as well as making it substantially easier for them to go back and forth between both versions.
+The one change that was **deliberately** retained was the Superjump Macro S. This is largely for accessibility reasons; the developer does not believe that the macro has a significant enough impact on the general flow of neutral in DBFZ (though impact is not denied), while its existence allows returning players from S4 and so on to not have to re-learn too much muscle memory in how they move around the screen, as well as making it substantially easier for them to go back and forth between both versions.
 
 CE's main goal is making 3.5 DBFZ as accessible for all players as feasibly possible, which means retaining the core identity of its roster and system while also easing the process of just booting up and playing.
