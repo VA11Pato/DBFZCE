@@ -25,11 +25,11 @@ On top of everything else, due to global circumstances at the time, season 3 as 
 
 [![Install Tutorial](https://img.youtube.com/vi/yCNLSOCb9Es/maxresdefault.jpg)](https://www.youtube.com/watch?v=yCNLSOCb9Es)
 
-Head to **releases** to download the .msi installer! 
+Click [here](https://github.com/VA11Pato/DBFZCE/releases/tag/installer) to download the .msi installer! 
 
 ### Manual installation
 
-1. Download the individual mod files from the releases page in GitHub.
+1. Click [here](https://github.com/VA11Pato/DBFZCE/releases/tag/manual) to download the individual mod files.
 2. Go to your game directory (usually found at `Program Files (x86)\Steam\steamapps\common\DRAGON BALL FighterZ`), then navigate to `RED > Content > Paks`.
 3. Create a new folder named exactly `~mods` (don't forget the tilde `~`!).
 4. Extract the contents of the DBFZ CE 1.5 folder into the `~mods` folder you just created.
