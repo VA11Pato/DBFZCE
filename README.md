@@ -21,11 +21,11 @@ On top of everything else, due to global circumstances at the time, season 3 as 
 
 ## How can I install this?
 
-### Standard installation (Click on the thumbnail for video tutorial)
+### Standard installation (Thumbnail links to video tutorial)
 
 [![Install Tutorial](https://img.youtube.com/vi/yCNLSOCb9Es/maxresdefault.jpg)](https://www.youtube.com/watch?v=yCNLSOCb9Es)
 
-Click [here](https://github.com/VA11Pato/DBFZCE/releases/tag/installer) to download the .msi installer! 
+Click **[here](https://github.com/VA11Pato/DBFZCE/releases/tag/installer)** to download the .msi installer! 
 
 ### Manual installation
 
