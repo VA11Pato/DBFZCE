@@ -1,4 +1,4 @@
-# DBFZ CE 1.6 Update
+# DBFZ CE 1.6 (SS4 Goku DAIMA Update)
 ## System
 - **Removed S macro**
 
