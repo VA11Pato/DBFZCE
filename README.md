@@ -88,8 +88,6 @@ Below is a list of the changes that are retained from Season 4 onward, for vario
 
 - Every move that puts you in an airborne state will attain float properties, without the need to superjump install it. 
 
-- The Superjump Macro (hold S) is still present in CE.
-
 - While on Sparking and Limit Break, the Sparking timer won't ever run out in the middle of a combo, ensuring it remains active until the end of it.  
 
 - Vanish is invincible from the beginning of the move if the opponent is performing a Vanish. This change is mostly insignificant to this version as Vanish Guard Cancel is not present in it.
