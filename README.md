@@ -1,5 +1,5 @@
 # DBFZ CE 1.6 (Goku SS4 DAIMA Update)
-As the game continues to receive updates, it's important that I ensure the mod continues to behave as intended. 
+As the game continues to receive updates, it's important that I ensure the mod **continues** to behave as intended. 
 
 Just like with Labcoat, Goku SS4 DAIMA never existed in 3.5, therefore him being a playable character in CE is totally out of the question.
 
@@ -12,7 +12,7 @@ With the release of 1.6, CE has also received a few new changes, some more signi
 The inclusion of this feature has always been the most conflicting decision I've had to make for the mod, and I've now decided to take a final step back from it.
 
 Although it's something you can be for or against, high level CE proved beyond any reasonable doubt that it had a significant impact on the way neutral, offense and defense were played, which creates too large of a gap between the mod and the original 3.5.
-I won't disagree that its removal makes playing both versions at once more difficult, but as DBFZ (unfortunately) continues to stray further away from the game it once was, I find it even more urgent to preserve this gameplay aspect of older seasons.
+I won't disagree that its removal makes playing both versions at once more difficult, but as DBFZ (unfortunately) continues to stray further away from the game it once was, I find it even more urgent to **preserve this gameplay aspect** of older seasons.
 
 However, I made sure resources concerning the application of manual moon jump are shared on the **[Dustloop wiki](https://www.dustloop.com/w/User:Pato/DBFZCE/Universal_Strategy#Moon_jump)** for everybody to learn.
 
