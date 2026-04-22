@@ -1,3 +1,53 @@
+# DBFZ CE 1.6 Update
+## System
+- **Removed S macro**
+
+The inclusion of this feature has always been the most conflicting decision I've had to make for the mod, and I've now decided to take a final step back from it.
+
+Although it's something you can be for or against, high level CE proved beyond any reasonable doubt that it had a significant impact on the way neutral, offense and defense were played, which creates too large of a gap between the mod and the original 3.5.
+I won't disagree that its removal makes playing both versions at once more difficult, but as DBFZ (unfortunately) continues to stray further away from the game it once was, I find it even more urgent to preserve this gameplay aspect of older seasons.
+
+However, I made sure resources concerning the application of manual moon jump are shared on the **[Dustloop wiki](https://www.dustloop.com/w/User:Pato/DBFZCE/Universal_Strategy#Moon_jump)** for everybody to learn.
+
+## Characters
+Even though I strive for the mod to be as accurate to 3.5 as possible, I've taken the liberty to give characters a few bug fixes, small improvements and QOL changes to round up their identities and provide them with some breathing room inside the roster.
+
+I tried to be very careful when letting these in as I did not wish to go with changes that could make characters feel too different from how they once played.
+
+These are also mostly changes that were already present in retail DBFZ and came into existence just shortly after 1.27
+
+###  SS Goku
+- Expanded 2S hitbox downwards
+
+###  SSB Vegeta
+- Fixed the bug that rendered him unable to 2H after deflected ki-blasts (5S and 2S)
+
+###  Frieza
+- Made 2H strike property
+
+###  Bardock
+- Can now perform j.L twice in a combo
+
+###  Android 16
+- Increased attack level for 5L
+
+###  Hit
+- Can now gatling 5L into itself
+
+###  Jiren
+- Fixed the bug that let 214S beat throws and DR
+
+###  Base Goku
+- Can now perform 214S with 22S
+
+- System text will show up for his spirit bomb levels
+
+- Pressing any attack button will perform a Kaioken finisher if no more follow-up options remain
+
+###  Fused Zamasu
+- Expanded 5S hitbox downwards
+
+
 # FAQ
 
 ## What is this?
