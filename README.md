@@ -17,7 +17,7 @@ I won't disagree that its removal makes playing both versions at once more diffi
 However, I made sure resources concerning the application of manual moon jump are shared on the **[Dustloop wiki](https://www.dustloop.com/w/User:Pato/DBFZCE/Universal_Strategy#Moon_jump)** for everybody to learn.
 
 ## Characters
-Even though I strive for the mod to be as accurate to 3.5 as possible, I've taken the liberty to give characters a few bug fixes, small improvements and QOL changes to round up their identities and improve upon their overall feel. 
+Even though I strive for the mod to be as accurate to 3.5 as possible, I've taken the liberty to give characters a few bug fixes, small improvements and QOL changes to round up their identities and slightly enhance their overall feel.
 
 I tried to be very careful when letting these in as I did not wish to go with changes that could make characters feel too different from how they once played.
 
