@@ -1,5 +1,5 @@
 # DBFZ CE 1.6 (Goku SS4 DAIMA Update)
-As the game continues to receive updates, it's important that I ensure the mod **continues** to behave as intended. 
+As the game keeps on receiving updates, it's important that I ensure the mod **continues** to behave as intended. 
 
 Just like with Labcoat, Goku SS4 DAIMA never existed in 3.5, therefore him being a playable character in CE is totally out of the question.
 
